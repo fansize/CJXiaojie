@@ -1,0 +1,6 @@
+framework module Pods_CJXiaojie {
+  umbrella header "Pods-CJXiaojie-umbrella.h"
+
+  export *
+  module * { export * }
+}
